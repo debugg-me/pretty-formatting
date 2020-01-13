@@ -1,0 +1,24 @@
+{
+  "name": "pretty-formatting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debugg-xyz/pretty-formatting.git"
+  },
+  "keywords": [],
+  "author": "Syed Faraaz Ahmad <faraaz98@live.com> (https://faraazahmad.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debugg-xyz/pretty-formatting/issues"
+  },
+  "homepage": "https://github.com/debugg-xyz/pretty-formatting#readme",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "prettier": "^1.19.1"
+  }
+}
