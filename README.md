@@ -17,9 +17,6 @@ function uglyJSCode(){
 ```
 Improve the formatting of the given code so that it looks like this:
 
-`getJokeCategories()` should return the categories provieded by the api in the form of 
-an array of strings, like so:
-
 ```JS
 function uglyJSCode() {
     let code = foo(entryFile);
