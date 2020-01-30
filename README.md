@@ -17,7 +17,7 @@ function uglyJSCode(){
 }
 ```
 
-
+<br/>
 Improve the formatting of the given code so that it looks like this:
 
 ```JS
