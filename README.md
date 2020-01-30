@@ -16,6 +16,7 @@ function uglyJSCode(){
      console.log(x);
 }
 ```
+
 Improve the formatting of the given code so that it looks like this:
 
 ```JS
