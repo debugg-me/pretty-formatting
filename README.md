@@ -4,6 +4,7 @@ the Babel format.
 ### Examples
 
 The given function `uglyJSCode` is not poerply formatted, and is therefore difficult to read.
+
 ```JS
 function uglyJSCode(){
   let code  =foo(
@@ -33,11 +34,13 @@ properly formatted.
 ### Executing tests
 
 Using NPM:
+
 ```bash
 $ npm test
 ```
 
 Or if you prefer Yarn:
+
 ```bash
 $ yarn test
 ```
